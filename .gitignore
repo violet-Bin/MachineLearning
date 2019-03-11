@@ -1,11 +1,31 @@
-# Byte-compiled / optimized / DLL files
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+##########################
+# Jetbrains Ignore files #
+##########################
+.idea/
+
+#######################
+# Python Ignore files #
+#######################
 __pycache__/
-*.py[cod]
-*$py.class
+#.ipynb_checkpoints/
 
-# C extensions
-*.so
+#######################
+# JAVA                #
+#######################
+.class
 
+<<<<<<< HEAD
 # Distribution / packaging
 .Python
 build/
@@ -102,3 +122,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+=======
+>>>>>>> d10dd58f2f1520df4d4d280242e22ff2ce0cc9b7
