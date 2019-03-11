@@ -18,7 +18,7 @@ Thumbs.db
 # Python Ignore files #
 #######################
 __pycache__/
-.ipynb_checkpoints/
+#.ipynb_checkpoints/
 
 #######################
 # JAVA                #
