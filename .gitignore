@@ -1,8 +1,8 @@
 ######################
 # OS generated files #
 ######################
-.DS_Store
-.DS_Store?
+*.DS_Store
+*.DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
@@ -12,13 +12,15 @@ Thumbs.db
 ##########################
 # Jetbrains Ignore files #
 ##########################
-.idea/
+**/.idea
+**/.idea/**
 
 #######################
 # Python Ignore files #
 #######################
-__pycache__/
-#.ipynb_checkpoints/
+**/__pycache__/**
+**/.ipynb_checkpoints
+**/.ipynb_checkpoints/**
 
 #######################
 # JAVA                #
