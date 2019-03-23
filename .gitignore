@@ -27,7 +27,6 @@ Thumbs.db
 #######################
 .class
 
-<<<<<<< HEAD
 # Distribution / packaging
 .Python
 build/
@@ -124,5 +123,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-=======
->>>>>>> d10dd58f2f1520df4d4d280242e22ff2ce0cc9b7
